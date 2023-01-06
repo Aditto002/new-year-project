@@ -55,3 +55,31 @@
     font-weight: 400;
     font-size: 14px;
 }
+.plan-flex{
+    display: flex;
+    gap: 85px;
+    margin-left: 200px;
+}
+.plan-image{
+    text-align: center;
+}
+.plan-header{
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.plan-image-header{
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 16px;
+    padding-top: 30px;
+}
+.plan-image-paragraph{
+    color: #737272;
+    font-size: 25px;
+    font-weight: 500;
+    padding-bottom: 130px;
+}
