@@ -31,3 +31,27 @@
     border: 0;
     border-radius: 5px;
 }
+.section-div{
+    display: flex;
+    gap: 90px;
+    align-items: center;
+    margin: 130px 320px 130px 200px;
+}
+.section-dis-header{
+    color: #151414;
+    font-weight: 900;
+    font-size: 40px;
+    padding-bottom: 24px;
+    
+}
+.section-dis-paragraph{
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 16px;
+}
+.list{
+    padding: 8px;
+    font-weight: 400;
+    font-size: 14px;
+}
